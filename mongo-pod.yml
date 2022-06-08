@@ -16,6 +16,6 @@ spec:
     - name: MONGO_INITDB_ROOT_USERNAME
       value: "carlos"
     - name: MONGO_INITDB_ROOT_PASSWORD
-      value: "Jhousef$2016"
+      value: "aS45DffW32$eerf$4514SSAds"
     ports:
     - containerPort: 27017

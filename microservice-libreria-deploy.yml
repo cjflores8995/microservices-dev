@@ -25,4 +25,4 @@ spec:
         - containerPort: 80
         env:
         - name: MongoDb__ConnectionString
-          value: mongodb://carlos:Jhousef$2016@mongo-service:27017
+          value: mongodb://carlos:aS45DffW32$eerf$4514SSAds@mongo-service:27017
