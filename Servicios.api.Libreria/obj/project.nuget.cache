@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "MR/sF/Kc3ZJtCPJYVAvlsGCGWEgKsefiSP3n9SIRN3wTHqUwEeAgwzlHdW6LtDZdBs0/ac4mpxBjv6+GtYYfJQ==",
+  "dgSpecHash": "mDwisGchqX4AsXkS3fdaFGf7BTZbaj0bQmKLpOHow4uJ2KRbDt1Z2DGELzoqV5Ldirxp49zO1LLJ3hRJZpyDCA==",
   "success": true,
   "projectFilePath": "C:\\microservice\\Microservices\\Servicios.api.Libreria\\Servicios.api.Libreria.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,7 @@
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.openapi\\1.1.4\\microsoft.openapi.1.1.4.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\mongodb.bson\\2.11.2\\mongodb.bson.2.11.2.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\mongodb.driver\\2.11.2\\mongodb.driver.2.11.2.nupkg.sha512",

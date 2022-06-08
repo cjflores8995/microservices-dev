@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "T5RDaXA5kaJeXsWB/zZPSr2kx/n7AJLit+9MXHY1rOgNJ1z+X9pJ54iZ+2YrpQhyQxf1KgiElQSmRJe0T2q4ow==",
+  "dgSpecHash": "fv8FGoxjpT9Vaios0FfMrvmhioUAZCJ3+30fU2TJA7yLer48C/u5CrNw7sOyGQ2zHqNTlPnDHYkt06kNkthaZg==",
   "success": true,
   "projectFilePath": "C:\\microservice\\Microservices\\Servicios.api.Seguridad\\Servicios.api.Seguridad.csproj",
   "expectedPackageFiles": [
@@ -47,6 +47,7 @@
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.8.0\\microsoft.identitymodel.tokens.6.8.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
