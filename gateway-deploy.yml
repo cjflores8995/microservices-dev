@@ -15,7 +15,7 @@ spec:
     metadata:
       name: gateway-pod
       labels:
-        app: gateway-libreria
+        app: gateway
         type: microservice
     spec:
       containers:
