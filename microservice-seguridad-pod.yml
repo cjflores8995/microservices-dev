@@ -7,10 +7,10 @@ metadata:
     type: microservice
 spec:
   containers:
-  - name: microservice-seguridad-app
-    image: cflores8995/serviciosapiseguridad:latest
-    ports:
-    - containerPort: 80
-    env:
-      - name: ConnectionStrings__ConexionDB
-        value: Server=mssql-service;Database=Seguridad;User=sa;Password=Jhousef@2016
+    - name: microservice-seguridad-app
+      image: cflores8995/serviciosapiseguridad:latest
+      ports:
+        - containerPort: 80
+      env:
+        - name: ConnectionStrings__ConexionDB
+          value: Server=mssql-service;Database=Seguridad;User=sa;Password=$VaxiDrez2025

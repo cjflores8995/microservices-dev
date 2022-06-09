@@ -18,8 +18,8 @@ spec:
         app: gateway
         type: microservice
     spec:
-      containers:
+     containers:
       - name: gateway-app
         image: cflores8995/serviciosapigateway:latest
         ports:
-        - containerPort: 80
+          - containerPort: 80

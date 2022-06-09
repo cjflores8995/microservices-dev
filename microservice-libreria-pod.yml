@@ -7,10 +7,10 @@ metadata:
     type: microservice
 spec:
   containers:
-  - name: microservice-libreria-app
-    image: cflores8995/serviciosapilibreria:latest
-    ports:
-    - containerPort: 80
-    env:
-      - name: MongoDb__ConnectionString
-        value: mongodb://carlos:aS45DffW32$eerf$4514SSAds@mongo-service:27017
+    - name: microservice-libreria-app
+      image: cflores8995/serviciosapilibreria:latest
+      ports:
+        - containerPort: 80
+      env:
+        - name: MongoDb__ConnectionString
+          value: mongodb://vaxidrez:$VaxiDrez2025@mongo-service:27017

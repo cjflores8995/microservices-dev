@@ -7,7 +7,7 @@ metadata:
     type: microservice
 spec:
   containers:
-  - name: gateway-app
-    image: cflores8995/serviciosapigateway:latest
-    ports:
-    - containerPort: 80
+    - name: gateway-app
+      image: cflores8995/serviciosapigateway:latest
+      ports:
+        - containerPort: 80
